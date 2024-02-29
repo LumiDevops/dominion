@@ -2,4 +2,8 @@ These are the important conditions to test on the app
 login
 logout
 reset password
-update password 
+update password
+session timeout
+forgot username
+forgot password
+account lock
